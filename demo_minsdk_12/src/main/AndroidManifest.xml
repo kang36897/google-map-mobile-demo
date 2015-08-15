@@ -30,7 +30,7 @@
          for instructions on how to get your own key. -->
     <meta-data android:name="com.google.android.maps.v2.API_KEY"
     android:value="AIzaSyCDi0CVeMr-bulQwtxIbO2wP1YM2_2DSIo"/>
-
+   　　　　　　　　　
 
     <!--<meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyCDi0CVeMr-bulQwtxIbO2wP1YM2_2DSIo"/>-->
     <meta-data
