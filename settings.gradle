@@ -1,0 +1,2 @@
+include ':googlemapssdkm4b_lib'
+include ':demo_minsdk_12'

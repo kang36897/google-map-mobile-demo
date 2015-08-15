@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="maps_m4b">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/googlemapssdkm4b_lib/libs/maps_m4b.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
